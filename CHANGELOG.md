@@ -3,6 +3,10 @@ Pry Doc changelog
 
 ### master
 
+### [v1.2.0][v1.2.0] (March 2, 2021)
+
+* Added Ruby 3.0 support ([#107](https://github.com/pry/pry-doc/pull/107))
+
 ### [v1.1.0][v1.1.0] (March 28, 2020)
 
 * Added Ruby 2.7 support ([#94](https://github.com/pry/pry-doc/pull/94))
@@ -108,3 +112,4 @@ Pry Doc changelog
 [v0.13.5]: https://github.com/pry/pry-doc/releases/tag/v0.13.5
 [v1.0.0]: https://github.com/pry/pry-doc/releases/tag/v1.0.0
 [v1.1.0]: https://github.com/pry/pry-doc/releases/tag/v1.1.0
+[v1.2.0]: https://github.com/pry/pry-doc/releases/tag/v1.2.0
